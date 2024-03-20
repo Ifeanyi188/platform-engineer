@@ -1,3 +1,20 @@
+## Submission Feedback
+
+To build and run the container image, run these commands
+
+
+``
+docker build -t platform-task .
+``
+
+``
+docker run -p 8080:8080 platform-task
+``
+
+
+------------------------------------------------------------------------------------
+
+
 # Platform Engineer Technical Test
 
 Welcome to Castor Platform Engineer technical test. 
